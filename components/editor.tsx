@@ -8,7 +8,7 @@ const RichEditor = () => {
     extensions: [StarterKit],
     content: `
         <h2>
-        Hi there,
+        Hi there, one
         </h2>
         <p>
         this is a basic <em>basic</em> example of <strong>tiptap</strong>. Sure, there are all kind of basic text styles you’d probably expect from a text editor. But wait until you see the lists:
